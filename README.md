@@ -1,204 +1,73 @@
-# 🎨 GitHub Revamp - Profile README Template
-
-> Create an awesome GitHub profile README in minutes! Clone, customize, and showcase your projects with style.
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-[![GitHub Stars](https://img.shields.io/github/stars/gulglitch/github-revamp?style=flat-square)](https://github.com/gulglitch/github-revamp/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/gulglitch/github-revamp?style=flat-square)](https://github.com/gulglitch/github-revamp/network)
+# Hi there! I'm Varshana Pandian
 
 ---
 
-## 🌟 What is This?
+## About Me
 
-**GitHub Revamp** is a ready-to-use GitHub profile README template that helps you create a professional and eye-catching profile in minutes. No coding required - just clone, replace placeholders, and push!
+I'm a Computer Science student passionate about building intelligent systems that solve real-world problems.
 
-### ✨ Features
-
-- 🎯 **Easy to use** - Just replace placeholders with your info
-- 🐍 **Animated contribution snake** - GitHub Actions included
-- 📊 **GitHub stats cards** - Automatically updated
-- 🎨 **Fully customizable** - Colors, themes, sections
-- 📱 **Responsive design** - Looks great on all devices
-- 🚀 **Zero dependencies** - Pure markdown, no build process
-
----
-
-## 📸 Preview
-
-Check out the live example: [github.com/gulglitch](https://github.com/gulglitch)
+- Developing AI and Machine Learning applications using TensorFlow and Scikit-learn
+- Interested in Data Science, Predictive Analytics, and Computer Vision
+- Exploring Large Language Models (LLMs), AI Agents, MCP Servers, and Function Calling
+- Building full-stack applications with FastAPI, React, JavaScript, and modern web technologies
+- Experienced with Python, C, Java, SQL, and software engineering fundamentals
+- Open to collaboration and opportunities
+- Interested in: AI/ML, Data Science, Frontend Development
 
 ---
 
-## 🚀 Quick Start
+## TECH STACK
 
-### 1️⃣ Create Your Profile Repository
+**Languages**
 
-Your repository must be named **exactly** as your GitHub username:
-- Username: `john-doe` → Repository: `john-doe/john-doe`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
-### 2️⃣ Clone This Template
+**Frameworks & Libraries**
 
-```bash
-git clone https://github.com/gulglitch/github-revamp.git [your-username]
-cd [your-username]
-```
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-### 3️⃣ Change Remote URL
+**Databases & Backend Services**
 
-```bash
-git remote remove origin
-git remote add origin https://github.com/[YOUR-USERNAME]/[YOUR-USERNAME].git
-```
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-### 4️⃣ Customize Your Profile README
+**Developer Tools**
 
-Rename the template file:
-```bash
-# On Windows (cmd)
-move PROFILE_TEMPLATE.md README.md
-
-# On Windows (PowerShell) / macOS / Linux
-mv PROFILE_TEMPLATE.md README.md
-```
-
-Open `README.md` and replace all placeholders:
-- `[YOUR_NAME]` → Your name
-- `[YOUR_USERNAME]` → Your GitHub username
-- `[YOUR_EMAIL]` → Your email
-- `[YOUR_TAGLINE_X]` → Your taglines
-- And more...
-
-### 5️⃣ Push to GitHub
-
-```bash
-git add .
-git commit -m "Initial profile setup"
-git push -u origin main
-```
-
-### 6️⃣ Enable GitHub Actions
-
-1. Go to your repository settings
-2. Settings → Actions → General
-3. Enable "Read and write permissions"
-4. Save
-
-**Done!** Visit `github.com/[your-username]` to see your profile 🎉
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 
-## 📚 Full Documentation
+## CONNECT WITH ME
 
-For detailed setup instructions, customization options, and troubleshooting, see:
-
-👉 **[SETUP_GUIDE.md](SETUP_GUIDE.md)**
-
----
-
-## 🎨 What's Included?
-
-### Sections in the Template:
-
-1. **Animated Header** - Dynamic typing effect with your taglines
-2. **About Me** - Introduction and interests
-3. **Latest Projects** - Showcase your top 2 projects with tech badges
-4. **More Projects** - Grid layout for up to 9 projects
-5. **Highlights** - Key achievements or focus areas
-6. **GitHub Stats** - Auto-generated stats, languages, and streak
-7. **Contribution Snake** - Animated contribution graph
-8. **Tech Stack** - Categorized technology badges
-9. **Connect With Me** - Social media links
-10. **Profile Views Counter** - Track your profile visitors
-
-### Files Included:
-
-```
-github-revamp/
-├── README.md                          # About this template (you're reading it!)
-├── PROFILE_TEMPLATE.md                # Your profile README template (rename to README.md)
-├── SETUP_GUIDE.md                     # Detailed setup instructions
-└── .github/
-    └── workflows/
-        └── snake.yml                  # Contribution snake animation
-```
-
----
-
-## 🎯 Customization Tips
-
-### Change Accent Color
-
-Replace `D85A30` (orange) with your preferred color:
-- Blue: `3B82F6`
-- Green: `10B981`
-- Purple: `8B5CF6`
-- Red: `EF4444`
-
-### Add More Tech Badges
-
-Visit [shields.io](https://shields.io/) and [simpleicons.org](https://simpleicons.org/)
-
-Format:
-```markdown
-![Name](https://img.shields.io/badge/Name-HexColor?style=flat-square&logo=logoname&logoColor=white)
-```
-
-### Change Stats Theme
-
-Available themes: `tokyonight`, `dark`, `radical`, `gruvbox`, `dracula`, `monokai`, `vue`, `onedark`, `cobalt`, `nightowl`
-
-Replace `theme=tokyonight` in the stats URLs.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! If you have ideas for improvements:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 💡 Inspiration
-
-This template was inspired by the need for an easy, customizable GitHub profile README that anyone can use without complex setup or dependencies.
-
----
-
-## 🙏 Acknowledgments
-
-- [GitHub README Stats](https://github.com/anuraghazra/github-readme-stats) by anuraghazra
-- [Contribution Snake](https://github.com/Platane/snk) by Platane
-- [Typing SVG](https://github.com/DenverCoder1/readme-typing-svg) by DenverCoder1
-- [Shields.io](https://shields.io/) for badges
-- [Simple Icons](https://simpleicons.org/) for logo icons
-
----
-
-## ⭐ Show Your Support
-
-If this template helped you create an awesome GitHub profile, please give it a star! ⭐
-
----
-
-## 📫 Contact
-
-**Gul e Zara** - [@gulglitch](https://github.com/gulglitch)
-
-Project Link: [https://github.com/gulglitch/github-revamp](https://github.com/gulglitch/github-revamp)
-
----
-
-**Made with ❤️ for the developer community**
-
-*Happy profiling! 🚀*
+<p align="center">
+  <a href="https://github.com/vp2437">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:varshanamp23@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/varshana-pandian-497944314">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
