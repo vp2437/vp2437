@@ -1,7 +1,5 @@
 # Hi there! I'm Varshana Pandian
 
----
-
 ## About Me
 
 I'm a Computer Science student passionate about building intelligent systems that solve real-world problems.
