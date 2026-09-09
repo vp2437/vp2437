@@ -4,13 +4,12 @@
 
 I'm a Computer Science student passionate about building intelligent systems that solve real-world problems.
 
-- Developing AI and Machine Learning applications using TensorFlow and Scikit-learn
-- Interested in Data Science, Predictive Analytics, and Computer Vision
-- Exploring Large Language Models (LLMs), AI Agents, MCP Servers, and Function Calling
+- Interested in Data Science, AI and Machine Learning
+- Exploring Large Language Models (LLMs), MCP Servers, APIs and Integrations
 - Building full-stack applications with FastAPI, React, JavaScript, and modern web technologies
-- Experienced with Python, C, Java, SQL, and software engineering fundamentals
-- Open to collaboration and opportunities
-- Interested in: AI/ML, Data Science, Frontend Development
+- Experienced with Python, Java, SQL, and software engineering fundamentals
+  
+Open to collaboration and opportunities
 
 ---
 
@@ -41,8 +40,6 @@ I'm a Computer Science student passionate about building intelligent systems tha
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=mediapipe&logoColor=white)
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=flat-square&logo=uvicorn&logoColor=white)
-![ezdxf](https://img.shields.io/badge/ezdxf-3776AB?style=flat-square&logo=python&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 **Databases & Backend Services**
 
